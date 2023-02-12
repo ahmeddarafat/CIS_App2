@@ -1,7 +1,8 @@
-import 'package:cis_app/resources/app_colors.dart';
-import 'package:cis_app/resources/widgets/app_text.dart';
+import 'app_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+import '../styles/app_colors.dart';
 
 class PublicButton extends StatelessWidget {
   final String title;

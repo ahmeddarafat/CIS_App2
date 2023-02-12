@@ -1,8 +1,7 @@
-import 'package:cis_app/presentation/product_details/screen/product_details_page.dart';
-import 'package:cis_app/resources/api_demo.dart';
-import 'package:cis_app/resources/styles/app_colors.dart';
+import '../../product_details/screen/product_details_page.dart';
+import '../../../resources/api_demo.dart';
+import '../../../resources/styles/app_colors.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../resources/widgets/app_text.dart';

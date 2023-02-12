@@ -1,5 +1,5 @@
-import 'package:cis_app/domain/models/product_model.dart';
-import 'package:cis_app/resources/constants/app_assets.dart';
+import '../domain/models/product_model.dart';
+import 'constants/app_assets.dart';
 
 List<String> images = [
   AppAssets.chair1,

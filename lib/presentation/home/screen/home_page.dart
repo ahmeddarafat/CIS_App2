@@ -1,10 +1,9 @@
-import 'package:cis_app/resources/api_demo.dart';
-import 'package:cis_app/resources/app_colors.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../domain/cubits/home/home_cubit.dart';
+import '../../../resources/api_demo.dart';
+import '../../../resources/styles/app_colors.dart';
 import '../widgets/button.dart';
 import '../widgets/image_card.dart';
 import '../widgets/product_card.dart';

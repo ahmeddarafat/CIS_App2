@@ -1,9 +1,6 @@
-import 'package:cis_app/domain/cubits/home/home_cubit.dart';
-import 'package:cis_app/domain/models/product_model.dart';
-import 'package:cis_app/resources/styles/app_colors.dart';
-import 'package:cis_app/resources/widgets/app_text.dart';
-import 'package:cis_app/presentation/home/widgets/button.dart';
-import 'package:cis_app/resources/widgets/public_button.dart';
+import '../../../domain/cubits/home/home_cubit.dart';
+import '../../../resources/styles/app_colors.dart';
+import '../../../resources/widgets/app_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

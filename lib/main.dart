@@ -1,8 +1,9 @@
-import 'package:cis_app/domain/cubits/home/home_cubit.dart';
-import 'package:cis_app/presentation/home/screen/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+import 'domain/cubits/home/home_cubit.dart';
+import 'presentation/home/screen/home_page.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,10 +1,10 @@
-import 'package:cis_app/domain/models/product_model.dart';
-import 'package:cis_app/resources/styles/app_colors.dart';
-import 'package:cis_app/resources/widgets/app_text.dart';
-import 'package:cis_app/resources/widgets/public_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
+import '../../../domain/models/product_model.dart';
+import '../../../resources/styles/app_colors.dart';
+import '../../../resources/widgets/app_text.dart';
+import '../../../resources/widgets/public_button.dart';
 import '../widgets/colored_circle.dart';
 import '../widgets/quantity_row.dart';
 
